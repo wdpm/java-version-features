@@ -13,6 +13,8 @@ Java 各版本特性介绍以及代码示例。
 - JDK 14
 - JDK 15 (include preview features)
 
+The document is located in the [docs](/docs) folder, and sample code is located in the [src](/src) folder.
+
 ## 参考
 - [Java version history](https://en.wikipedia.org/wiki/Java_version_history)
 - [JDK Project](https://openjdk.java.net/projects/jdk/)
