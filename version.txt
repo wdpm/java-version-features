@@ -1,2 +1,0 @@
-1.9 Modules,private methods in interfaces
-1.10 Local variable type inference

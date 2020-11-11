@@ -15,8 +15,10 @@ import java.util.stream.Stream;
  * @author evan
  * @date 2020/5/2
  */
-public class LocalVarVariable {
-    public static void main(String[] args) throws IOException {
+public class LocalVarVariable
+{
+    public static void main(String[] args) throws IOException
+    {
         var list = new ArrayList<String>();
         System.out.println(list instanceof ArrayList);
 
