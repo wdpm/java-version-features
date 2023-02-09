@@ -23,7 +23,12 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.8.0</version>
                 <configuration>
-                    <release>15</release>
+                    <excludes>
+                        <exclude>io/github/wdpm/jdk16/JEP389Example.java</exclude>
+                    </excludes>
+                    <release>16</release>
+                    <source>16</source>
+                    <target>16</target>
                 </configuration>
             </plugin>
         </plugins>
