@@ -24,6 +24,11 @@ Java 各版本特性介绍以及代码示例。
 - JDK 16 (reviewed by chatGPT)
   - records, patterns, local enums and interfaces etc.
 - JDK 17
+  - Sealed types, always-strict floating-point semantic etc.
+- JDK 18
+  - [no major API updates]
+- JDK 19
+  - [no major API updates] 
 
 The document is located in the [docs](/docs) folder, and sample code is located in the [src](/src) folder.
 

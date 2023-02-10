@@ -26,9 +26,10 @@
                     <excludes>
                         <exclude>io/github/wdpm/jdk16/JEP389Example.java</exclude>
                     </excludes>
-                    <release>16</release>
-                    <source>16</source>
-                    <target>16</target>
+                    <release>19</release>
+                    <source>19</source>
+                    <target>19</target>
+                    <compilerArgs>--enable-preview</compilerArgs>
                 </configuration>
             </plugin>
         </plugins>

@@ -7,3 +7,6 @@ target
 
 *.class
 *.exe
+
+# test javadoc
+javadocout
